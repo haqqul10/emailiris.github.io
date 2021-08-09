@@ -74,6 +74,10 @@
         width: 90% !important;
         max-width: 90%;
       }
+
+      .responsive__mobile{
+        margin:0px auto;
+      }
     }
   </style>
   <style type="text/css">
@@ -84,6 +88,11 @@
 
       td.mj-full-width-mobile {
         width: auto !important;
+      }
+
+      .responsive__mobile{
+        margin-left: 20px;
+        margin-right: 20px;
       }
     }
   </style>
@@ -132,7 +141,7 @@
         <v:fill  origin="0.5, 0" position="0.5, 0" src="images/bg.png" color="#ffffff" type="tile" />
         <v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0">
       <![endif]-->
-    <div style="background:#ffffff url(images/bg.png) top center / cover repeat;margin:0px auto;border-radius:15px;max-width:600px;">
+    <div class="responsive__mobile" style="background:#ffffff url(images/bg.png) top center / cover repeat; border-radius:15px;max-width:600px;">
       <div style="line-height:0;font-size:0;">
         <table align="center" background="images/bg.png" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff url(images/bg.png) top center / cover repeat;width:100%;border-radius:15px;">
           <tbody>
@@ -159,7 +168,7 @@
                                   <tbody>
                                     <tr>
                                       <td style="width:90px;">
-                                        <img alt="Logo" height="auto" src="images/logo.svg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="90" />
+                                        <img alt="Logo" height="auto" src="./images/logo.svg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="90" />
                                       </td>
                                     </tr>
                                   </tbody>
