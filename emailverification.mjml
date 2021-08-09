@@ -9,12 +9,18 @@
   <mj-body background-color="#CDC2FF">
   <mj-section>
   </mj-section>
-    <mj-hero background-color="linear-gradient(101.71deg, #3B1B74 9.67%, #230D49 90.64%)" padding-top="44px" padding-left="40px" padding-right="40px" padding-bottom="40px" border-radius="15px 15px 0px 0px">
+    <mj-section>
+
+    
+
+    
+    <!-- <mj-hero background-color="linear-gradient(101.71deg, #3B1B74 9.67%, #230D49 90.64%)" padding-top="44px" padding-left="40px" padding-right="40px" padding-bottom="40px" border-radius="15px 15px 0px 0px">
         <mj-column width="100%" vertical-align="middle" padding-bottom="0">
             <mj-image src="images/logo-email-verification.svg" alt="Logo" width="90" align="left" padding-top="0"/>
-            <mj-image src="images/img-header.png" alt="Logo" width="483" align="center" padding-top="59px" padding-bottom="54px"/>
+            <mj-image src="images/img-header.png" alt="Header" width="483" align="center" padding-top="59px" padding-bottom="54px"/>
         </mj-column>
-    </mj-hero>
+    </mj-hero> -->
+    <mj-image src="images/bg-email1.png"/>
     <mj-section background-color="#1B143C" padding-top="44px" padding-left="40px" padding-right="40px" padding-bottom="40px" border-radius="0 0 15px 15px">
         <mj-column>
             <mj-text align="left" font-size="40px" color="#fff" padding-top="54px" font-weight="800"><span style="font-family: 'Inter', sans-serif; line-height: 52px;">Welcome to Iris!</span></mj-text>
@@ -27,6 +33,7 @@
             <mj-text align="center" font-size="16px" color="rgba(255, 255, 255, 0.5)" padding-top="8px" font-weight="400"><span style="font-family: 'Inter', sans-serif; line-height: 25px;">If you any help or just want to chat, email us any time</span></mj-text>
             <mj-text align="center" font-size="16px" color="#55575A" padding-top="0px" font-weight="400"><span style="font-family: 'Inter', sans-serif; line-height: 25pxpx; color: #7963FA; padding-top:-10px;">support@Iris.com</span></mj-text>
         </mj-column>
+    </mj-section>
     </mj-section>
     <mj-section>
         <mj-column>
