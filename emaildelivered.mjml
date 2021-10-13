@@ -9,10 +9,11 @@
     <mj-section background-color="#fff" background-url="images/bg.png" background-size="cover" border-radius="15px" background-position="top right" padding-top="44px" padding-left="40px" padding-right="40px" padding-bottom="40px">
         <mj-column width="100%" vertical-align="middle" padding-bottom="0">
             <mj-image src="images/logo.svg" alt="Logo" width="90" align="left" padding-top="0"/>
-            <mj-text align="left" font-size="40px" color="#221B4A" padding-top="54px" font-weight="800"><span style="font-family: 'Inter', sans-serif; line-height: 40px;">Welcome to Iris!</span></mj-text>
-            <mj-text align="left" font-size="24px" color="#221B4A" padding-top="40px" font-weight="700"><span style="font-family: 'Inter', sans-serif; line-height: 40px">Hi John Doe! </span></mj-text>
-            <mj-text align="left" font-size="24px" color="#55575A" padding-top="16px" font-weight="400"><span style="font-family: 'Inter', sans-serif; line-height: 40px;">Thank you for signing up! Click the button below to verify your email, and let’s get started.</span></mj-text>
-            <mj-button href="#" font-size="22px" color="white" background-color="linear-gradient(263.29deg, #861C9B -9.37%, #4818EC 113.75%)" border-radius="6px" line-height="24px" font-family: "Inter, sans-serif" height="58px" padding-top="32px" padding-bottom="32px">Verify Your Email Address</mj-button>
+            <mj-text align="left" font-size="40px" color="#221B4A" padding-top="54px" font-weight="800"><span style="font-family: 'Inter', sans-serif; line-height: 40px;">Thank you for<br/>your purchase!</span></mj-text>
+            <mj-text align="left" font-size="24px" color="#221B4A" padding-top="40px" font-weight="700"><span style="font-family: 'Inter', sans-serif; line-height: 40px">Please use this key to Register</span></mj-text>
+            <mj-text align="left" font-size="24px" color="#55575A" padding-top="16px" font-weight="400"><span style="font-family: 'Inter', sans-serif; line-height: 40px;">License keys are product specific and will only activate the product to Get Started Iris AIO Dashboard.</span></mj-text>
+            <mj-button font-size="22px" border="1px dashed #7963FA" color="#7963FA" font-weight="600" background-color="transparent" border-radius="8px" line-height="24px" font-family: "Inter,sans-serif" height="58px" padding-top="16px" width="100%" padding-bottom="16px">RENEWAL-6383EE25-DED3-3251-JKS2-124J91NS929L</mj-button>
+            <mj-button href="#" font-size="22px" color="white" background-color="linear-gradient(263.29deg, #861C9B -9.37%, #4818EC 113.75%)" border-radius="6px" line-height="24px" font-family: "Inter,sans-serif" height="58px" padding-top="16px" padding-bottom="32px">Copy License Keys</mj-button>
         </mj-column>
         <mj-column border-top="1px solid rgba(34, 27, 74, 0.1)" width="90%" padding-top="0">
             <mj-text align="center" font-size="20px" color="#221B4A" padding-top="40px" font-weight="600"><span style="font-family: 'Inter', sans-serif; line-height: 24px;">Any Question?</span></mj-text>
